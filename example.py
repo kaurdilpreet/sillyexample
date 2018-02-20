@@ -9,3 +9,4 @@ e = 50
 f = d-e
 
 h = d/e
+g = d*e
