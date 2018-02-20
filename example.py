@@ -7,3 +7,5 @@ print(c)
 d = 40
 e = 50
 f = d-e
+
+g = d*e
