@@ -4,6 +4,7 @@ c = a+b
 
 print(c)
 print(b)
+print(a)
 
 d = 40
 e = 50
